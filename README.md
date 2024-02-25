@@ -29,6 +29,7 @@ This project aims to predict heart disease based on various features. It was dev
 
 - **Challenges with ADASYN and Multiclass**:
   - Discuss why ADASYN may not work well with multiclass classification problems, citing any limitations or challenges encountered.
+- **What are regularization techniques**:
 
 
 
